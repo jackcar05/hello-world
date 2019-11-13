@@ -15,3 +15,6 @@ jobs:
       run: |
         echo Add other actions to build,
         echo test, and deploy your project.
+
+print("This a python like print statement, lets see how it works on the hub")
+
